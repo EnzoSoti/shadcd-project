@@ -1,4 +1,4 @@
-import { FaHome, FaUser, FaCog, FaChevronLeft, FaChevronRight, FaSignOutAlt } from "react-icons/fa";
+import { FaHome, FaUser, FaCog, FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
 
